@@ -1,0 +1,19 @@
+.pink-bg {
+    background-color: hsla(356, 57%, 70%, 0.97);
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+#blue-txt {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.another-one {
+    font-size: 24px;
+}
+
+#green-bg {
+    background-color: hsl(119, 100%, 62%);
+    font-size: 24px;
+    font-weight: bold;
+}
